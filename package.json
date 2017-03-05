@@ -1,0 +1,19 @@
+{
+  "name": "chm",
+  "version": "0.0.1",
+  "description": "Complex Harmonic Motion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysarson/chm.git"
+  },
+  "author": "Harry Sarson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysarson/chm/issues"
+  },
+  "homepage": "https://github.com/harrysarson/chm#readme"
+}
